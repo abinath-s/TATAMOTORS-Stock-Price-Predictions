@@ -30,5 +30,10 @@ This project mainly aims to improve the predictive accuracy of TataMotors stock 
 -> To give some useful insights to the industry for decision making and to see the trend pattern and the stock movement
 
 
+## DEPLOYMENT 
+
+I Deployed an intractive dashboard using PowerBI 
+DASHBOARD : https://app.powerbi.com/reportEmbed?reportId=22c234b6-7023-40e4-bf79-3e10eb124eb4&autoAuth=true&ctid=57249c6c-8fbc-4005-a6a5-1f73ba39967f
+
 ![DASHBOARD](https://user-images.githubusercontent.com/85839342/219654389-e2459cf4-d9a0-4afe-8b5d-cf92f4457fbe.jpeg)
 
