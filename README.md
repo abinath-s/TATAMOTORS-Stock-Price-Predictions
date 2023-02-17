@@ -1,6 +1,6 @@
 # TATAMOTORS-STOCK-PRICE-PREDICTION USING LSTM
 
-# ABSTRACT
+## ABSTRACT
 
  -> The abstract of the project "Tata Motors Stock Price Prediction using LSTM" focuses on predicting the stock price of Tata Motors Limited, a leading Indian multinational automotive manufacturing company, using the Long Short-Term Memory (LSTM) algorithm. 
 
